@@ -1,7 +1,5 @@
 # OMNILIFE-AI-ORCHESTRATOR
 
-# OMNILIFE AI ORCHESTRATOR
-
 ### An Intelligent Multi-Agent Platform for Personalized Financial Guidance
 
 **OMNILIFE AI ORCHESTRATOR** is a final-year project focused on building an AI-powered platform that coordinates specialized agents to provide personalized financial insights, assist with financial planning, and help users discover potentially relevant government schemes.
