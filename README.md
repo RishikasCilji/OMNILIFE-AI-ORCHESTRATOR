@@ -6,10 +6,6 @@
 
 The platform aims to bring multiple financial assistance capabilities together through a unified interface, using AI-driven reasoning, information retrieval, and explainable recommendations.
 
-> **Project Status: In Progress — Approximately 80% Complete**
-
-Some components may still be under development and may not be available in the current version.
-
 ---
 
 ## Overview
